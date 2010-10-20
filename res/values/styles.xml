@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <style name="MyTheme" parent="@android:style/Theme.NoTitleBar">
+   <item name="android:windowBackground">@color/background_brown</item>
+   <item name="android:textColorPrimary">@color/primary_text</item>
+ </style>
+ <style name="MyDialog" parent="@android:style/Theme.Dialog">
+<!--    <item name="android:textSize">14sp</item> -->
+ </style>
+</resources>
